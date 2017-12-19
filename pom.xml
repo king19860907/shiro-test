@@ -12,6 +12,7 @@
     <modules>
         <module>shiro-test-ch02</module>
         <module>shiro-test-ch03</module>
+        <module>shiro-test-ch04</module>
     </modules>
 
     <build>
